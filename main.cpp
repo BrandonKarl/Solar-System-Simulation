@@ -15,8 +15,6 @@
  * number of arguments has been verified, it creates a window and runs the
  * simulation in a try/catch block, making sure no errors occur with the
  * values.
- 
- * testing
  */
 
 
